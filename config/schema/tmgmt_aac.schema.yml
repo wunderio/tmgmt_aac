@@ -1,0 +1,9 @@
+tmgmt.translator.settings.aac:
+  type: tmgmt.translator_base
+  mapping:
+    username:
+      type: string
+      label: Username
+    password:
+      type: string
+      label: Password

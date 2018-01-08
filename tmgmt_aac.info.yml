@@ -1,0 +1,8 @@
+name: 'AAC Global translator'
+description: 'AAC Global plugin for TMGMT. Sign up at <a href="https://www.aacglobal.com">aacglobal.com</a>.'
+package: 'Translation Management'
+core: 8.x
+dependencies:
+  - tmgmt
+  - tmgmt_file
+type: module

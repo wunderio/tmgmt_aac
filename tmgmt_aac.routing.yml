@@ -1,0 +1,7 @@
+tmgmt_aac.callback:
+  path: /tmgmt_aac_callback
+  defaults:
+    _title: 'Remote Callback'
+    _controller: '\Drupal\tmgmt_aac\Controller\AacController::callback'
+  requirements:
+    _access: 'TRUE'
